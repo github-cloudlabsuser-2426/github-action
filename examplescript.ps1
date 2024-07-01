@@ -3,7 +3,7 @@ $token = "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"
 
 # Set the repository details
 $owner = "github-cloudlabsuser-2426"
-$repo = ""
+$repo = "https://github.com/github-cloudlabsuser-2426/github-action.git"
 
 # Set the file path and content
 $file = "path/to/file.txt"
